@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Masterlk0?style=social" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/Masterlk0?style=social" alt="GitHub stars">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Masterlk0.repoName" alt="Visitor badge">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Masterlk0/&title=Visitors" alt="Visitors">
   <img src="https://komarev.com/ghpvc/?username=Masterlk0" alt="Profile views">
 </p>
 
