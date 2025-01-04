@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Masterlk0?style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/Masterlk0?style=social)
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masterlk0.repoName)
-  <img src="https://komarev.com/ghpvc/?username=Masterlk0" alt="Masterlk0" />
+  <img src="https://img.shields.io/github/followers/Masterlk0?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Masterlk0?style=social" alt="GitHub stars">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Masterlk0.repoName" alt="Visitor badge">
+  <img src="https://komarev.com/ghpvc/?username=Masterlk0" alt="Profile views">
 </p>
 
 <table align="center">
